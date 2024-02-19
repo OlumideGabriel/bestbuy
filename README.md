@@ -1,12 +1,13 @@
 # Project Name: Bestbuy Store Management System
 
 Description:
-This project implements a simple store management system in Python. It includes classes for products and a store, along with functionalities to list products, display total quantities, and make orders.
+This project implements a simple store management system in Python. It includes classes for products, product promotions and a store, along with functionalities to list products, display total quantities, and make orders.
 
 Files:
 
 products.py: Contains the Product class definition.
 store.py: Contains the Store class definition.
+promotions.py: Contains the Promotion class definition.
 main.py: Implements a text-based user interface for interacting with the store management system.
 test_store.py: Contains test cases for testing the functionalities of the store management system.
 Usage:
